@@ -50,3 +50,16 @@ hr {
 body {
   background: #f6f6f6;
 }
+
+.link { color: #343a40; } /* CSS link color (red) */
+.link:hover { color: #323bc4; } /* CSS link hover (green) */
+
+.button_link {
+  background: #6c757d;
+  color: white;
+}
+
+.button_link:hover {
+  background: #323bc4;
+  color: white;
+}
