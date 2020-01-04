@@ -4,12 +4,12 @@ function animation(){
     let ctx = c.getContext("2d");
     let cH;
     let cW;
-    let bgColor = "#FF6138";
+    let bgColor = "#866ec7";
     let animations = [];
     let circles = [];
     
     let colorPicker = (function() {
-      let colors = ["#FF6138", "#FFBE53", "#2980B9", "#282741"];
+      let colors = ["#866ec7", "#8f71ff", "#82acff", "#9aceff"];
       let index = 0;
       function next() {
         index = index++ < colors.length-1 ? index : 0;
