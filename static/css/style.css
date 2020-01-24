@@ -10,7 +10,12 @@ hr {
   height:2px;
 }
 
+.card-color{
+  background-color: #f8f9fa;
+}
+
 #title {
+  padding-top: 50px;
   text-align: center;
   color: white;
   font-size: 80px;}
@@ -37,8 +42,8 @@ hr {
   }
 }
 
-.link { color: #343a40; }
-.link:hover { color: #323bc4; }
+.link { color: #6D082F; }
+.link:hover { color: #273746; }
 
 .button_link {
   background: #6c757d;
@@ -46,7 +51,7 @@ hr {
 }
 
 .button_link:hover {
-  background: #323bc4;
+  background: #cc5577;
   color: white;
 }
 
