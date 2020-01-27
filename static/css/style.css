@@ -28,6 +28,11 @@ hr {
     width: 244px;
     height: 202px;
   }
+  .profile-pic{
+    width: 280px;
+    height: 304px;
+    margin-bottom:30px;
+  }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px){
